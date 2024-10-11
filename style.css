@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(46, 125, 151);
   }
   
   h1 {
@@ -11,3 +11,10 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+
+  .final-project ul{
+    display: flex;
+    flex: content;
+    flex-wrap: wrap;
+  }
+
