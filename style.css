@@ -12,9 +12,18 @@ body {
     font-size: 20px;
   }
 
-  .final-project ul li{
-    display: flex;
-    flex: content;
-    flex-wrap: wrap;
+nav > ul{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
+}
+
+  nav > ul > li{
+    display: block;
+    margin: 0, 0.2em;
+    padding: 0.2em;
   }
 
