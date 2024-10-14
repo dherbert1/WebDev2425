@@ -32,3 +32,8 @@ body {
     margin: 0, 0.2em;
     padding: 0.2em;
   }
+
+  section{
+    width:80%;
+    max-width: 700px;
+  }
